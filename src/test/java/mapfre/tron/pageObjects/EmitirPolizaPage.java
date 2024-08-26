@@ -13,7 +13,7 @@ public class EmitirPolizaPage {
     @FindBy(id = "X")
     WebElement emitirPolizaBtn;
     @FindBy(id = "X")
-    WebElement table
+    WebElement table;
 
     public EmitirPolizaPage(WebDriver driver) {
         this.driver = driver;

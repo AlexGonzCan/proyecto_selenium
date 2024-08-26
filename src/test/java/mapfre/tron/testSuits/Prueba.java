@@ -20,7 +20,7 @@ public class Prueba {
         homePage.baseUrl();
     }
 
-    @Test(description = "prueba de acceso a youtube", priority = 0)
+    @Test(description = "prueba de acceso a google", priority = 0)
     public void testPageTitle(){
 
 
